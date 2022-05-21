@@ -6,7 +6,7 @@ Components:
 
 -LEDs
 
--330 ohm resistors
+-220 ohm resistors
 
 -5V DC motor
 
