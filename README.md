@@ -3,9 +3,8 @@ of the LabVIEW output the pins are selected in order to control the speed of the
 Also the LEDs help us monitoring the speed of the DC motor and the variation of the spinning direction.
 
 Components:
-
--LEDs
--330 ohm resistors
--5V DC motor
--Arduino Uno R3
--l293d motor driver
+-LEDs;
+-330 ohm resistors;
+-5V DC motor;
+-Arduino Uno R3;
+-l293d motor driver.
